@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Asm_ph38422_and103</string>
+    <string-array name="spinner_price">
+        <item>Ascending</item>
+        <item>Decrease</item>
+
+    </string-array>
+</resources>
